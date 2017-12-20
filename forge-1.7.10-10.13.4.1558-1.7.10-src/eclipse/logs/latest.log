@@ -1,0 +1,37 @@
+[14:00:12] [main/INFO]: Setting user: Player199
+[14:00:13] [Client thread/INFO]: LWJGL Version: 2.9.1
+[14:00:20] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Strong Wool Mod
+[14:00:20] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: strongWoolMod/ in /Users/fond/minecraftDev/strongWoolMod/forge-1.7.10-10.13.4.1558-1.7.10-src/bin
+[14:00:21] [Sound Library Loader/INFO]: Sound engine started
+[14:00:21] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[14:00:21] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[14:00:21] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Strong Wool Mod
+[14:00:21] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: strongWoolMod/ in /Users/fond/minecraftDev/strongWoolMod/forge-1.7.10-10.13.4.1558-1.7.10-src/bin
+[14:00:21] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[14:00:21] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[14:00:22] [Sound Library Loader/INFO]: Sound engine started
+[14:00:26] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[14:00:26] [Server thread/INFO]: Generating keypair
+[14:00:27] [Server thread/INFO]: Preparing start region for level 0
+[14:00:28] [Server thread/INFO]: Changing view distance to 12, from 10
+[14:00:28] [Server thread/INFO]: Player199[local:E:bd148793] logged in with entity id 147 at (-44.69999998807907, 64.0, 0.13032861317574512)
+[14:00:28] [Server thread/INFO]: Player199 がゲームに参加しました
+[14:00:34] [Server thread/INFO]: Player199は奈落の底へ落ちてしまった
+[14:00:34] [Client thread/INFO]: [CHAT] Player199は奈落の底へ落ちてしまった
+[14:00:34] [Client thread/INFO]: [CHAT] おっと！すごく痛そうだ
+[14:00:38] [Server thread/INFO]: Player199 は [所持品の確認] の実績を取得した
+[14:00:38] [Client thread/INFO]: [CHAT] Player199 は [所持品の確認] の実績を取得した
+[14:00:40] [Server thread/INFO]: [Player199: あなたのゲームモードをクリエイティブモードに変更しました]
+[14:00:40] [Client thread/INFO]: [CHAT] ゲームモードが変更されました
+[14:02:38] [Client thread/INFO]: [CHAT] スクリーンショットをファイル名 2017-11-24_14.02.37.png として保存しました
+[14:03:01] [Server thread/INFO]: Saving and pausing game...
+[14:03:01] [Server thread/INFO]: Saving chunks for level 'unko'/Overworld
+[14:03:01] [Server thread/INFO]: Saving chunks for level 'unko'/Nether
+[14:03:01] [Server thread/INFO]: Saving chunks for level 'unko'/The End
+[14:03:03] [Client thread/INFO]: Stopping!
+[14:03:03] [Server thread/INFO]: Stopping server
+[14:03:03] [Server thread/INFO]: Saving players
+[14:03:04] [Server thread/INFO]: Saving worlds
+[14:03:04] [Server thread/INFO]: Saving chunks for level 'unko'/Overworld
+[14:03:04] [Server thread/INFO]: Saving chunks for level 'unko'/Nether
+[14:03:04] [Server thread/INFO]: Saving chunks for level 'unko'/The End
