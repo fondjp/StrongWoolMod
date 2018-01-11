@@ -17,7 +17,7 @@ buildscript {
 
 apply plugin: 'forge'
 
-version = "1.4.4"
+version = "0.0.1"
 group= "strongWoolMod"
 archivesBaseName = "strongWoolMod-MC1.7.10"
 
